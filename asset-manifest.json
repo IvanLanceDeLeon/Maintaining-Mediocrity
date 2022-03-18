@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Maintaining-Mediocrity/static/css/main.b513ffd7.css",
+    "main.js": "/Maintaining-Mediocrity/static/js/main.51eff6c8.js",
+    "static/js/787.1aeb34f8.chunk.js": "/Maintaining-Mediocrity/static/js/787.1aeb34f8.chunk.js",
+    "static/media/instagram.png": "/Maintaining-Mediocrity/static/media/instagram.2508c52af89a8282503f.png",
+    "static/media/desktop-1.jpg": "/Maintaining-Mediocrity/static/media/desktop-1.3917c7f7c1184f6789da.jpg",
+    "static/media/boba-pins.jpg": "/Maintaining-Mediocrity/static/media/boba-pins.7d01aa67c467a50c4d7f.jpg",
+    "static/media/Snow White ttf.ttf": "/Maintaining-Mediocrity/static/media/Snow White ttf.a5726f51fe2c950e0dfb.ttf",
+    "static/media/avatar.jpg": "/Maintaining-Mediocrity/static/media/avatar.35c6abd35fd8c5dc7877.jpg",
+    "static/media/mermaid-pins.jpg": "/Maintaining-Mediocrity/static/media/mermaid-pins.7bd8b4ccc16c4eeace17.jpg",
+    "static/media/heart-ship-rainbow-suncatcher.jpg": "/Maintaining-Mediocrity/static/media/heart-ship-rainbow-suncatcher.ef34e7ab11185f6aae62.jpg",
+    "static/media/medusa-sticker.jpg": "/Maintaining-Mediocrity/static/media/medusa-sticker.015665ffa6e6696b566d.jpg",
+    "static/media/crewniverse_font.ttf": "/Maintaining-Mediocrity/static/media/crewniverse_font.cac56915fac30e2eb2fd.ttf",
+    "static/media/rebela-ahsoka.jpg": "/Maintaining-Mediocrity/static/media/rebela-ahsoka.56b8ad2d308e29ae6a4c.jpg",
+    "static/media/lightsaber-earrings.jpg": "/Maintaining-Mediocrity/static/media/lightsaber-earrings.39b1c3b5d86b9e488c83.jpg",
+    "static/media/grinning-ghost.jpg": "/Maintaining-Mediocrity/static/media/grinning-ghost.5798345e3d54e79e279a.jpg",
+    "static/media/DK Lemon Yellow Sun.otf": "/Maintaining-Mediocrity/static/media/DK Lemon Yellow Sun.3d5b997eaa3a2f1a3e52.otf",
+    "static/media/shopping-cart.png": "/Maintaining-Mediocrity/static/media/shopping-cart.eca5ee08f37494f3f691.png",
+    "static/media/twitch.png": "/Maintaining-Mediocrity/static/media/twitch.4e9a575d9b9aae954813.png",
+    "index.html": "/Maintaining-Mediocrity/index.html",
+    "main.b513ffd7.css.map": "/Maintaining-Mediocrity/static/css/main.b513ffd7.css.map",
+    "main.51eff6c8.js.map": "/Maintaining-Mediocrity/static/js/main.51eff6c8.js.map",
+    "787.1aeb34f8.chunk.js.map": "/Maintaining-Mediocrity/static/js/787.1aeb34f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b513ffd7.css",
+    "static/js/main.51eff6c8.js"
+  ]
+}
