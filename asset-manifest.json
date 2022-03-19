@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Maintaining-Mediocrity/static/css/main.b513ffd7.css",
-    "main.js": "/Maintaining-Mediocrity/static/js/main.51eff6c8.js",
+    "main.css": "/Maintaining-Mediocrity/static/css/main.689c9668.css",
+    "main.js": "/Maintaining-Mediocrity/static/js/main.bf499ff8.js",
     "static/js/787.1aeb34f8.chunk.js": "/Maintaining-Mediocrity/static/js/787.1aeb34f8.chunk.js",
     "static/media/instagram.png": "/Maintaining-Mediocrity/static/media/instagram.2508c52af89a8282503f.png",
+    "static/media/avatar.png": "/Maintaining-Mediocrity/static/media/avatar.52044beaf158857d721e.png",
     "static/media/desktop-1.jpg": "/Maintaining-Mediocrity/static/media/desktop-1.3917c7f7c1184f6789da.jpg",
     "static/media/boba-pins.jpg": "/Maintaining-Mediocrity/static/media/boba-pins.7d01aa67c467a50c4d7f.jpg",
     "static/media/Snow White ttf.ttf": "/Maintaining-Mediocrity/static/media/Snow White ttf.a5726f51fe2c950e0dfb.ttf",
-    "static/media/avatar.jpg": "/Maintaining-Mediocrity/static/media/avatar.35c6abd35fd8c5dc7877.jpg",
     "static/media/mermaid-pins.jpg": "/Maintaining-Mediocrity/static/media/mermaid-pins.7bd8b4ccc16c4eeace17.jpg",
     "static/media/heart-ship-rainbow-suncatcher.jpg": "/Maintaining-Mediocrity/static/media/heart-ship-rainbow-suncatcher.ef34e7ab11185f6aae62.jpg",
     "static/media/medusa-sticker.jpg": "/Maintaining-Mediocrity/static/media/medusa-sticker.015665ffa6e6696b566d.jpg",
@@ -19,12 +19,12 @@
     "static/media/shopping-cart.png": "/Maintaining-Mediocrity/static/media/shopping-cart.eca5ee08f37494f3f691.png",
     "static/media/twitch.png": "/Maintaining-Mediocrity/static/media/twitch.4e9a575d9b9aae954813.png",
     "index.html": "/Maintaining-Mediocrity/index.html",
-    "main.b513ffd7.css.map": "/Maintaining-Mediocrity/static/css/main.b513ffd7.css.map",
-    "main.51eff6c8.js.map": "/Maintaining-Mediocrity/static/js/main.51eff6c8.js.map",
+    "main.689c9668.css.map": "/Maintaining-Mediocrity/static/css/main.689c9668.css.map",
+    "main.bf499ff8.js.map": "/Maintaining-Mediocrity/static/js/main.bf499ff8.js.map",
     "787.1aeb34f8.chunk.js.map": "/Maintaining-Mediocrity/static/js/787.1aeb34f8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b513ffd7.css",
-    "static/js/main.51eff6c8.js"
+    "static/css/main.689c9668.css",
+    "static/js/main.bf499ff8.js"
   ]
 }
