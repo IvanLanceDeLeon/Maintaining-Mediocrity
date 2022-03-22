@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Maintaining-Mediocrity/static/css/main.689c9668.css",
-    "main.js": "/Maintaining-Mediocrity/static/js/main.bf499ff8.js",
+    "main.css": "/Maintaining-Mediocrity/static/css/main.9fbf871c.css",
+    "main.js": "/Maintaining-Mediocrity/static/js/main.abc8022e.js",
     "static/js/787.1aeb34f8.chunk.js": "/Maintaining-Mediocrity/static/js/787.1aeb34f8.chunk.js",
     "static/media/instagram.png": "/Maintaining-Mediocrity/static/media/instagram.2508c52af89a8282503f.png",
     "static/media/avatar.png": "/Maintaining-Mediocrity/static/media/avatar.52044beaf158857d721e.png",
@@ -19,12 +19,12 @@
     "static/media/shopping-cart.png": "/Maintaining-Mediocrity/static/media/shopping-cart.eca5ee08f37494f3f691.png",
     "static/media/twitch.png": "/Maintaining-Mediocrity/static/media/twitch.4e9a575d9b9aae954813.png",
     "index.html": "/Maintaining-Mediocrity/index.html",
-    "main.689c9668.css.map": "/Maintaining-Mediocrity/static/css/main.689c9668.css.map",
-    "main.bf499ff8.js.map": "/Maintaining-Mediocrity/static/js/main.bf499ff8.js.map",
+    "main.9fbf871c.css.map": "/Maintaining-Mediocrity/static/css/main.9fbf871c.css.map",
+    "main.abc8022e.js.map": "/Maintaining-Mediocrity/static/js/main.abc8022e.js.map",
     "787.1aeb34f8.chunk.js.map": "/Maintaining-Mediocrity/static/js/787.1aeb34f8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.689c9668.css",
-    "static/js/main.bf499ff8.js"
+    "static/css/main.9fbf871c.css",
+    "static/js/main.abc8022e.js"
   ]
 }
